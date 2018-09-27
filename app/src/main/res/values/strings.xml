@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">COSC341Lab2</string>
+    <string-array name="divisions">
+        <item> </item>
+        <item>COSC</item>
+        <item>DATA</item>
+        <item>MATH</item>
+    </string-array>
+</resources>
