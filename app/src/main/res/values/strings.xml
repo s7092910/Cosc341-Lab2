@@ -1,7 +1,21 @@
 <resources>
     <string name="app_name">COSC341Lab2</string>
+    <string name="student_number">Student Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="division">Division</string>
+    <string name="i_am_not_a_robot">I am not a robot</string>
+    <string name="submit">Submit</string>
+    <string name="summary">Summary</string>
+    <string name="student_number2">Student Number:</string>
+    <string name="name">Name:</string>
+    <string name="gender2">Gender:</string>
+    <string name="division2">Division:</string>
+    <string name="done">Done</string>
     <string-array name="divisions">
-        <item> </item>
         <item>COSC</item>
         <item>DATA</item>
         <item>MATH</item>
